@@ -33,4 +33,8 @@ English original version you can find here: https://www.deficalendar.xyz/p/testn
     Так же нужно будет забрать токены которые нам накапают за стейкинг нажав кнопку **Vest PRB**
 6. Переходим https://parabola.fi/stake
     Листаем вниз страницы и нажимаем **Claim all with penalty**
+    Листаем вверх нажимаем на **Stake** и кидаем максимальное количество токенов $PRB на стейкинг.
+7. Возвращаемся https://parabola.fi/farms
+    Нажимаем **Vest PRB**
+    Переходим обратно в https://parabola.fi/stake и листаем вниз страницы и нажимаем **Claim all & lock** на 365 дней
 
