@@ -21,6 +21,8 @@ English original version you can find here: https://www.deficalendar.xyz/p/testn
 1. Переходим https://parabola.fi/faucet и подключаем Metamask
 2. Заполняем формы своим адресом и жмем получить токены
     2.1 Если токены не видны добавьте в метамаск через Import Tokens.
+![12312323](https://user-images.githubusercontent.com/80632445/154980358-27711517-6646-4495-adb4-a930f4179a5b.png)
+![12312312313](https://user-images.githubusercontent.com/80632445/154980360-9c0fc8a1-9308-4a60-a559-04ce829d728c.png)
           📥BUSD 0x467443b9A7cc8350d3a9e82B5d52cD663289BB95
           📥DAI 0x715b4D660148c477e03358f8b0315Ed4088fe89a
           📥USDC 0xf0307093f23311FE6776a7742dB619EB3df62969
@@ -33,17 +35,28 @@ English original version you can find here: https://www.deficalendar.xyz/p/testn
         Цена газа 15000
         **У меня так прошло.**
 4. Переходим https://parabola.fi/pools
+![image](https://user-images.githubusercontent.com/80632445/154980460-8ee9b0a5-0989-44a3-99d1-bba9d1d7b008.png)
+![image](https://user-images.githubusercontent.com/80632445/154980507-d56e3ce4-df72-4a9d-8d52-97260027b5c8.png)
     Добавляем ликвидность в пулы что бы получить LP токены.
     После снимаем половину от LP токенов и добавляем в Metamask контракт через Import Tokens.
+![image](https://user-images.githubusercontent.com/80632445/154980555-7a181ca5-2536-4b11-aaf7-7ecd9750b5ab.png)
+
     📥**3PRB** 0xC65A06eA5d23566A85EFF2AC28990551d57812Ba
 5. Переходим https://parabola.fi/farms
+![image](https://user-images.githubusercontent.com/80632445/154980573-f51f8a6e-9f96-42fd-89a4-684ccd269661.png)
     Выбираем 1 пул **3PRB**
     Апруваем и закидываем все LP токены в стейкинг после чего снимаем половину от того, что застейкали.
+![image](https://user-images.githubusercontent.com/80632445/154980690-1bd51365-9d2c-4f8e-b4f9-49712346e3cc.png)
     Так же нужно будет забрать токены которые нам накапают за стейкинг нажав кнопку **Vest PRB**
+![image](https://user-images.githubusercontent.com/80632445/154980739-a6b82a3f-0a0c-4d21-ae06-69770191fbf2.png)
 6. Переходим https://parabola.fi/stake
+![image](https://user-images.githubusercontent.com/80632445/154980794-d7aa18f9-0dcb-41d9-8c5d-5abd5c9c8862.png)
     Листаем вниз страницы и нажимаем **Claim all with penalty**
+![image](https://user-images.githubusercontent.com/80632445/154980903-e5394c5f-2d5e-4277-ba4b-e69ab72d2a3e.png)
+![image](https://user-images.githubusercontent.com/80632445/154980836-8df42878-1d36-43cd-9363-a5eac45235b9.png)
     Листаем вверх нажимаем на **Stake** и кидаем максимальное количество токенов $PRB на стейкинг.
 7. Возвращаемся https://parabola.fi/farms
+![image](https://user-images.githubusercontent.com/80632445/154980944-36a7daaa-394b-4ec4-92a6-a6d9386e47c6.png)
     Нажимаем **Vest PRB**
     Переходим обратно в https://parabola.fi/stake и листаем вниз страницы и нажимаем **Claim all & lock** на 365 дней
 
