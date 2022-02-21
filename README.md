@@ -1,4 +1,7 @@
 # Testnet-Parabola
+
+![image](https://user-images.githubusercontent.com/80632445/154979095-3d4d9445-f2e9-4d23-8cce-762600f130e6.png)
+
 How to participate in testnet Parabola Fi project.  |  Как участвовать в тестнете от проекта Parabola Fi
 
 All users joining their testnet will be rewarded.  |  ❤️Все пользователи, которые участвовали в тестнете будут награждены.❤️
@@ -7,7 +10,12 @@ English original version you can find here: https://www.deficalendar.xyz/p/testn
 
 ⏳**Подготовка**
 Добавляем сеть Cronos Testnet в Metamask на сайте https://chainlist.org/
+![image](https://user-images.githubusercontent.com/80632445/154979173-ddef8db5-c756-41c1-b3c0-23d7c3e04bf9.png)
+
 Переходим https://cronos.org/faucet вводим свой адрес из сети Cronos Testnet и получаем токены $TCRO
+![image](https://user-images.githubusercontent.com/80632445/154979210-655d6910-3e5a-4589-8a0c-dd9b0f7be965.png)
+
+
 
 ✨**Выполнение**
 1. Переходим https://parabola.fi/faucet и подключаем Metamask
@@ -18,6 +26,7 @@ English original version you can find here: https://www.deficalendar.xyz/p/testn
           📥USDC 0xf0307093f23311FE6776a7742dB619EB3df62969
           📥USDT 0xE2064B0B8576C2a433E45A61aBc8aFD5F05B4e0b
 3. Переходим https://parabola.fi/swap выбираем пару и нажимаем Approve -> Swap
+![image](https://user-images.githubusercontent.com/80632445/154979260-28569084-abd0-4d8f-808e-93c84ad470b3.png)
     3.1 Если транзакции не проходят увеличивайте газ и газ лимит
         Апруваем все 3 токена
         Предел Топлива 66666
